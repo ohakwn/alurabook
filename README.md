@@ -2,7 +2,7 @@
 
 O **AluraBooks** é uma aplicação web que simula uma livraria digital, oferecendo uma experiência interativa para explorar, favoritar e adquirir livros voltados ao desenvolvimento profissional nas áreas de tecnologia, design, negócios e mais.
 
-![Imagem do site](https://github.com/user-attachments/assets/9d44e1ed-8257-402e-b991-006636952797)
+![Imagem do site AluraBooks](https://github.com/user-attachments/assets/d840f5ea-54cf-4ebb-ab15-637af828c999)
 
 ## 🔗 Acesse o projeto
 
