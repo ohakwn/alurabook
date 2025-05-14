@@ -22,5 +22,5 @@ O **AluraBooks** é uma aplicação web que simula uma livraria digital, oferece
 
 - HTML5 e CSS3
 - JavaScript
-- Frameworks e bibliotecas modernas (detalhes específicos não fornecidos)
+- Frameworks e bibliotecas modernas
 - Hospedagem via [Vercel](https://vercel.com/)
